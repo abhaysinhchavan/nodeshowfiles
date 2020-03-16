@@ -1,0 +1,11 @@
+{
+  "name": "nodeshowfiles",
+  "version": "1.0.0",
+  "description": "demo app nodeshowfiles",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
